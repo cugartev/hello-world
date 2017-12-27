@@ -1,2 +1,3 @@
 # hello-world
-Ideas / Learning  
+
+This will be amazing
